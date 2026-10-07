@@ -1,4 +1,4 @@
-# Social-Simulation
+# SocialSimulation
 
 ## 这是什么
 
